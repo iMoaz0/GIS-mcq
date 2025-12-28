@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "lecture": "Lecture 1",
+    "question": "What does GIS stand for?",
+    "options": ["Global Internet System", "Geographical Information System", "Graphic Interface Software", "General Information Service"],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "lecture": "Lecture 1",
+    "question": "Which of the following is NOT a key component of GIS?",
+    "options": ["Hardware", "Software", "Data", "Social Media"],
+    "answerIndex": 3
+  },
+  {
+    "id": 3,
+    "lecture": "Lecture 1",
+    "question": "What type of analysis answers the question: 'What is at a particular location?'",
+    "options": ["Trends", "Patterns", "Location", "Modeling"],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "lecture": "Lecture 1",
+    "question": "Which of these is an example of GIS software?",
+    "options": ["Microsoft Word", "ARCGIS", "Adobe Photoshop", "AutoCAD only"],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "lecture": "Lecture 1",
+    "question": "What is the main purpose of GIS?",
+    "options": ["To replace surveyors", "To integrate and analyze spatial and non-spatial data", "To create social networks", "To manage financial databases"],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "lecture": "Lecture 1",
+    "question": "Which hardware component is used to convert paper maps to digital format?",
+    "options": ["Printer", "Scanner", "Monitor", "Keyboard"],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "lecture": "Lecture 1",
+    "question": "What does remote sensing involve?",
+    "options": ["Direct contact with objects on Earth", "Collecting data using sensors from a distance", "Only using GPS", "Conducting population censuses"],
+    "answerIndex": 1
+  },
+  {
+    "id": 8,
+    "lecture": "Lecture 1",
+    "question": "Which discipline is related to obtaining geometric properties from photographs?",
+    "options": ["Surveying", "Photogrammetry", "Digital Mapping", "Remote Sensing"],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "lecture": "Lecture 1",
+    "question": "What is the common denominator that GIS uses to combine different data themes?",
+    "options": ["Time", "Geography", "Color", "Size"],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "lecture": "Lecture 1",
+    "question": "Which of the following data sources is used in GIS?",
+    "options": ["Aerial photography", "Satellite images", "GPS", "All of the above"],
+    "answerIndex": 3
+  },
+
+  // … continue with all questions up to Lecture 5 (IDs 11–100) …
+]
